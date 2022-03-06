@@ -23,6 +23,7 @@ Atuo com análise, desenvolvimento e manutenção de sistemas para internet
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
+<hr>
 <div align="center">
 <a href="https://github.com/LordeNCaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordeNCaio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
