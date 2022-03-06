@@ -26,8 +26,8 @@ Atuo com análise, desenvolvimento e manutenção de sistemas para internet
 <hr>
 <div align="center">
 <a href="https://github.com/LordeNCaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordeNCaio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LordeNCaio&layout=compact&langs_count=15&theme=aura_dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LordeNCaio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LordeNCaio&layout=compact&langs_count=15&theme=aura_dark" />
 </div>
 <hr>
 <h3>Tenho Experiência</h3>
