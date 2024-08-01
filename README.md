@@ -13,21 +13,21 @@ Atuo com análise, desenvolvimento e manutenção de sistemas para internet
   em minha vida e me ajudaram a melhorar meus conhecimentos.
 </p><hr>
 <p>
-<a href="https://github.com/LordeNCaio">
+<a href="https://github.com/LordeCaio">
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://gitlab.com/LordeNCaio">
+<a href="https://gitlab.com/LordeCaio">
 <img src="https://img.shields.io/badge/-GitLab-%23330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/lordencaio/">
+<a href="https://www.linkedin.com/in/LordeCaio/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 <hr>
 <div align="center">
-<a href="https://github.com/LordeNCaio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LordeNCaio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LordeNCaio&layout=compact&langs_count=15&theme=aura_dark" />
+<a href="https://github.com/LordeCaio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LordeCaio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LordeCaio&layout=compact&langs_count=15&theme=aura_dark" />
 </div>
 <hr>
 <h3>Tenho Experiência</h3>
