@@ -1,10 +1,5 @@
 <h3 align="center"><strong>Bem-vindo(a) ao meu Github</strong></h3><hr>
 <div align="center">
-<h4>
-Desenvolvedor de Sistemas Jr na 
-<a target="_blank" href="https://dxc.com/br/pt">DXC Technology</a><br>
-Atuo com análise, desenvolvimento e manutenção de sistemas para internet
-</h4>
 </div><hr>
 <p>Apaixonado por programação dedico boa parte de meu tempo focando nos estudos, 
   atualmente trabalho como desenvolvedor de sistemas, mas tenho um foco voltado 
